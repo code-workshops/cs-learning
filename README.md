@@ -38,10 +38,19 @@ The web is exploding with tutorials! Below is a list of the best and most popula
 - [Udemy](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=free): This is a list of the free video courses offered at Udemy. There are more that you can pay for but there's hundreds of free tutorials.
 - [Code School](https://www.codeschool.com/): Again, dozens of free and thorough tutorials with video. All lessons are completely in browser and they have a community of learnings to talk to!
 
+#### Javascript, HTML, CSS
+- [Javascript DOM Tutorials](https://dom-tutorials.appspot.com/static/index.html): Interactive online tutorial for learning to manipulate HTML with Javascript.
+- [Modern Javascript](http://javascript.info/): Very thorough interactive tutorial for mastering JS basics.
+
 ## Resources
 These resources are like manuals and aids to use while you work on your code. 
 
--  
+- [Tech Terms](https://techterms.com/): A much needed resource to get the hang of programming lingo.
+- [Command Line Reference](https://ss64.com/): All the commands for any terminal you use!
+- [HTTP Status Codes](http://www.restapitutorial.com/httpstatuscodes.html): Ever wonder with a 404 is?
+- [CSS Visual Guide](http://cssreference.io/property/align-content/): Select any CSS property and get visual examples of how they work!
+- [CSS Designs](http://www.mezzoblue.com/zengarden/alldesigns/): A demo gallery of many different webpage designs using CSS.
+- [Color Picker](http://htmlcolorcodes.com/color-picker/): Get colors in hex and rgb
 
 ## Sharing and Collaboration
 - [Codepen](https://codepen.io): HTML/CSS/Javascript. Great place to find cool effects and designs to inspire you and to share your own cool code snippets.
